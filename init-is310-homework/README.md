@@ -1,5 +1,5 @@
 
-#init IS 310 Homework
+# init IS 310 Homework
 ## Proof of Installation
 1. Python
 ![Python Installation](images/python-installation.png)
