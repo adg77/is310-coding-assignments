@@ -1,0 +1,5 @@
+Released: Oct 14, 1994, Title: The Shawshank Redemption, Box Office: $58,500,000
+Released: Jul 14, 2010, Title: Inception, Box Office: $836,800,000
+Released: Jun 11, 1993, Title: Jurassic Park, Box Office: $1,033,900,000
+Released: Dec 19, 2001, Title: The Lord of the Rings: The Fellowship of the Ring, Box Office: $897,700,000
+Released: Oct 26, 2014, Title: Interstellar, Box Office: $677,500,000
