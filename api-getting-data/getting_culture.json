@@ -1,0 +1,162 @@
+{
+    "response": {
+        "url": "https://anapioficeandfire.com/api/houses/362",
+        "name": "House Stark of Winterfell",
+        "region": "The North",
+        "coatOfArms": "A running grey direwolf, on an ice-white field",
+        "words": "Winter is Coming",
+        "titles": [
+            "King in the North",
+            "Lord of Winterfell",
+            "Warden of the North",
+            "King of the Trident"
+        ],
+        "seats": [
+            "Scattered (formerly Winterfell)"
+        ],
+        "currentLord": "",
+        "heir": "",
+        "overlord": "https://anapioficeandfire.com/api/houses/16",
+        "founded": "Age of Heroes",
+        "founder": "https://anapioficeandfire.com/api/characters/209",
+        "diedOut": "",
+        "ancestralWeapons": [
+            "Ice"
+        ],
+        "cadetBranches": [
+            "https://anapioficeandfire.com/api/houses/170",
+            "https://anapioficeandfire.com/api/houses/215"
+        ],
+        "swornMembers": [
+            "https://anapioficeandfire.com/api/characters/2",
+            "https://anapioficeandfire.com/api/characters/20",
+            "https://anapioficeandfire.com/api/characters/97",
+            "https://anapioficeandfire.com/api/characters/98",
+            "https://anapioficeandfire.com/api/characters/136",
+            "https://anapioficeandfire.com/api/characters/143",
+            "https://anapioficeandfire.com/api/characters/148",
+            "https://anapioficeandfire.com/api/characters/170",
+            "https://anapioficeandfire.com/api/characters/181",
+            "https://anapioficeandfire.com/api/characters/192",
+            "https://anapioficeandfire.com/api/characters/206",
+            "https://anapioficeandfire.com/api/characters/207",
+            "https://anapioficeandfire.com/api/characters/208",
+            "https://anapioficeandfire.com/api/characters/209",
+            "https://anapioficeandfire.com/api/characters/210",
+            "https://anapioficeandfire.com/api/characters/212",
+            "https://anapioficeandfire.com/api/characters/216",
+            "https://anapioficeandfire.com/api/characters/232",
+            "https://anapioficeandfire.com/api/characters/259",
+            "https://anapioficeandfire.com/api/characters/324",
+            "https://anapioficeandfire.com/api/characters/339",
+            "https://anapioficeandfire.com/api/characters/340",
+            "https://anapioficeandfire.com/api/characters/349",
+            "https://anapioficeandfire.com/api/characters/351",
+            "https://anapioficeandfire.com/api/characters/354",
+            "https://anapioficeandfire.com/api/characters/389",
+            "https://anapioficeandfire.com/api/characters/461",
+            "https://anapioficeandfire.com/api/characters/561",
+            "https://anapioficeandfire.com/api/characters/583",
+            "https://anapioficeandfire.com/api/characters/584",
+            "https://anapioficeandfire.com/api/characters/589",
+            "https://anapioficeandfire.com/api/characters/591",
+            "https://anapioficeandfire.com/api/characters/593",
+            "https://anapioficeandfire.com/api/characters/603",
+            "https://anapioficeandfire.com/api/characters/648",
+            "https://anapioficeandfire.com/api/characters/668",
+            "https://anapioficeandfire.com/api/characters/716",
+            "https://anapioficeandfire.com/api/characters/737",
+            "https://anapioficeandfire.com/api/characters/777",
+            "https://anapioficeandfire.com/api/characters/887",
+            "https://anapioficeandfire.com/api/characters/891",
+            "https://anapioficeandfire.com/api/characters/911",
+            "https://anapioficeandfire.com/api/characters/912",
+            "https://anapioficeandfire.com/api/characters/916",
+            "https://anapioficeandfire.com/api/characters/917",
+            "https://anapioficeandfire.com/api/characters/918",
+            "https://anapioficeandfire.com/api/characters/957",
+            "https://anapioficeandfire.com/api/characters/1101",
+            "https://anapioficeandfire.com/api/characters/1111",
+            "https://anapioficeandfire.com/api/characters/1148",
+            "https://anapioficeandfire.com/api/characters/1158",
+            "https://anapioficeandfire.com/api/characters/1175",
+            "https://anapioficeandfire.com/api/characters/1185",
+            "https://anapioficeandfire.com/api/characters/1190",
+            "https://anapioficeandfire.com/api/characters/1254",
+            "https://anapioficeandfire.com/api/characters/1260",
+            "https://anapioficeandfire.com/api/characters/1326",
+            "https://anapioficeandfire.com/api/characters/1336",
+            "https://anapioficeandfire.com/api/characters/1383",
+            "https://anapioficeandfire.com/api/characters/1396",
+            "https://anapioficeandfire.com/api/characters/1407",
+            "https://anapioficeandfire.com/api/characters/1488",
+            "https://anapioficeandfire.com/api/characters/1489",
+            "https://anapioficeandfire.com/api/characters/1499",
+            "https://anapioficeandfire.com/api/characters/1515",
+            "https://anapioficeandfire.com/api/characters/1526",
+            "https://anapioficeandfire.com/api/characters/1565",
+            "https://anapioficeandfire.com/api/characters/1602",
+            "https://anapioficeandfire.com/api/characters/1620",
+            "https://anapioficeandfire.com/api/characters/1649",
+            "https://anapioficeandfire.com/api/characters/1650",
+            "https://anapioficeandfire.com/api/characters/1706",
+            "https://anapioficeandfire.com/api/characters/1737",
+            "https://anapioficeandfire.com/api/characters/1749",
+            "https://anapioficeandfire.com/api/characters/1787",
+            "https://anapioficeandfire.com/api/characters/1796",
+            "https://anapioficeandfire.com/api/characters/1816",
+            "https://anapioficeandfire.com/api/characters/1819",
+            "https://anapioficeandfire.com/api/characters/1843",
+            "https://anapioficeandfire.com/api/characters/1946",
+            "https://anapioficeandfire.com/api/characters/1950",
+            "https://anapioficeandfire.com/api/characters/1979",
+            "https://anapioficeandfire.com/api/characters/2019",
+            "https://anapioficeandfire.com/api/characters/2020",
+            "https://anapioficeandfire.com/api/characters/2037",
+            "https://anapioficeandfire.com/api/characters/2068",
+            "https://anapioficeandfire.com/api/characters/2089",
+            "https://anapioficeandfire.com/api/characters/2119"
+        ]
+    },
+    "response_euro": {
+        "@context": [
+            "https://www.w3.org/ns/ldp.jsonld",
+            "http://www.europeana.eu/schemas/context/entity.jsonld"
+        ],
+        "type": "ResultPage",
+        "total": 2,
+        "items": [
+            {
+                "id": "http://data.europeana.eu/place/23124",
+                "type": "Place",
+                "isShownBy": {
+                    "id": "http://catalog.libvar.bg/view/show_pdf_issue.pl?MATERIAL=article&image_id=284287552.49115114129516943410",
+                    "type": "WebResource",
+                    "source": "http://data.europeana.eu/item/0943110/libvar_ARTICLE_28568",
+                    "thumbnail": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcatalog.libvar.bg%2Fview%2Fshow_jpg_image.pl%3FMATERIAL%3Darticle%26image_id%3D284287552.49115114129516943410&type=TEXT"
+                },
+                "prefLabel": {
+                    "en": "Dubrovnik"
+                },
+                "altLabel": {
+                    "en": [
+                        "Ragusa"
+                    ]
+                }
+            },
+            {
+                "id": "http://data.europeana.eu/place/23275",
+                "type": "Place",
+                "isShownBy": {
+                    "id": "http://catalog.libvar.bg/view/show_pdf_issue.pl?MATERIAL=article&image_id=284287552.49115114129516943410",
+                    "type": "WebResource",
+                    "source": "http://data.europeana.eu/item/0943110/libvar_ARTICLE_28568",
+                    "thumbnail": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcatalog.libvar.bg%2Fview%2Fshow_jpg_image.pl%3FMATERIAL%3Darticle%26image_id%3D284287552.49115114129516943410&type=TEXT"
+                },
+                "prefLabel": {
+                    "en": "Dubrovnik-Neretva County"
+                }
+            }
+        ]
+    }
+}
