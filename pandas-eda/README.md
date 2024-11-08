@@ -1,0 +1,1 @@
+Welcome to my exploration project! I focused on sorting the data by gender of the author and year released. To run this notebook, make sure you are in your virtual environment and have pandas and altair installed. 
