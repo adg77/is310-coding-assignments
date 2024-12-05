@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import os
 
 # Step 1: Fetch the webpage
 url = 'https://iceandfire.fandom.com/wiki/POV_characters'
@@ -40,8 +41,12 @@ if samplechapter_section:
 # Print the results
 print("W.O.W Sample Chapters:", samplechapters)
 
+# Dynamically construct the file path
+output_dir = os.path.dirname(os.path.abspath(__file__))
+output_file = os.path.join(output_dir, 'sample_chapters.csv')
+
 # Write the data to a CSV file
-with open('/Users/alexguzman/Desktop/is310-coding-assignments/sample_chapters.csv', 'w', newline='') as csvfile:
+with open(output_file, 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
     
     # Write the header
@@ -58,3 +63,5 @@ with open('/Users/alexguzman/Desktop/is310-coding-assignments/sample_chapters.cs
     # Write a section for sample chapters
     csvwriter.writerow(['Character Name', 'Sample Chapters'])
     csvwriter.writerows(samplechapters)
+
+print(f"Data written to {output_file}")
